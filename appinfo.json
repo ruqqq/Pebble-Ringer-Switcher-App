@@ -1,0 +1,55 @@
+{
+    "versionLabel": "1.1",
+    "uuid": "4f06c0d2-4758-4d5e-9da6-829c599b2219",
+    "appKeys": {},
+    "longName": "Phone Ringer",
+    "versionCode": 2,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Phone Ringer",
+    "companyName": "ruqqq",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_APP_ICON",
+                "file": "images/icon.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_ICON_VIBRATE_SMALL",
+                "file": "images/ic_vibrate.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_ICON_VOLUME_SMALL",
+                "file": "images/ic_volume.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_ICON_VOLUME_OFF_SMALL",
+                "file": "images/ic_volume_off.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_ICON_VIBRATE",
+                "file": "images/ic_vibrate_large.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_ICON_VOLUME",
+                "file": "images/ic_volume_large.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_ICON_VOLUME_OFF",
+                "file": "images/ic_volume_off_large.png"
+            }
+        ]
+    }
+}
